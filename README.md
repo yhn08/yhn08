@@ -14,8 +14,4 @@ podcast episode into connected Obsidian notes. It checks the RSS feed for a
 publisher transcript before touching audio, falls back to local Whisper, and
 never calls a paid API. Python, MIT.
 
-Finishing A-Levels in Physics, Maths and Computer Science, then Computer
-Science at the University of Luxembourg from 2027.
-
-Most of what I build stays private while it is unfinished. What is here is
-finished.
+Finishing A-Levels in Physics, Maths and Computer Science.
