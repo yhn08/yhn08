@@ -1,17 +1,6 @@
-## Yaroslav Hnoianyi
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" width="100%" alt="Yaroslav Hnoianyi, Luxembourg. I like hard problems, especially the ones that make no sense at first. Now: predicting forest loss in Luxembourg from laser scans and satellite data. Role: AI engineer at Focus AI. Studying: A levels in Physics, Maths and Computer Science. Built: SeizAI, epileptic seizure detection from four sensors on SeizeIT2, built to keep detecting when one of the sensors goes dead. Runs: Legion, a home server that runs my training jobs, CI and agents 24/7. Speaks: Ukrainian, English, German.">
+</picture>
 
-18, Luxembourg. I build AI research and the tooling around it.
-
-**SeizAI.** Seizure detection from EEG. Won the Luxembourg national young
-scientists contest in 2026, which came with a research visit to Google Paris.
-The current version is a study rather than a demo. The analysis plan was
-pre-registered and its hash published before a single experiment ran, so the
-hypothesis cannot be quietly changed once the results arrive. The repository
-opens when the paper is submitted.
-
-**[podcast-knowledge](https://github.com/yhn08/podcast-knowledge).** Turns a
-podcast episode into connected Obsidian notes. It checks the RSS feed for a
-publisher transcript before touching audio, falls back to local Whisper, and
-never calls a paid API. Python, MIT.
-
-Finishing A-Levels in Physics, Maths and Computer Science.
+[yarohn.me](https://yarohn.me) · [X](https://x.com/yaro_hn) · [LinkedIn](https://www.linkedin.com/in/yaroslavhnoianyi) · [Instagram](https://www.instagram.com/yaro_hn/)
